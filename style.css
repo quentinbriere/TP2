@@ -10,7 +10,7 @@
 	padding: 20px;
 }
 
-#header h1 { margin: 0; color: #F7F7F7}
+#header h1 { margin: 0; color: #F7F7F7; text-align: center;}
 
 #navigation
 {
@@ -61,6 +61,8 @@
 	opacity: 0.83;
 }
 
+#edito h2 {color: #291B67; text-align: center;  } 
+
 #edito h2
 {
 	color: #000;
@@ -79,7 +81,6 @@
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-color: #F7F7F7;
-
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
